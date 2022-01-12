@@ -85,7 +85,7 @@ var themes_preinstall = {
 //背景图片
 var bg_img_preinstall = {
     "type" : "3",// 1:使用主题默认的背景图片、2:关闭背景图片、3:使用自定义的背景图片
-    "path" : "http://localhost/js/bing.php",//背景图片
+    "path" : "bing.php",//背景图片
 };
 
 // 获取背景图片
