@@ -52,7 +52,7 @@ var quick_list_preinstall = {
     },
     '5': {
         title: "腾讯课堂",
-        url: "腾讯课堂",
+        url: "https://ke.qq.com/",
         img: "./icon/keqq.png",
         explain: "腾讯课堂",
     },
